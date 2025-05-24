@@ -47,11 +47,6 @@ indoor-navigation/
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -59,32 +54,29 @@ Edit
    ```bash
    git clone https://github.com/yourusername/indoor-navigation.git
    cd indoor-navigation
-Install dependencies:
+   ```
+2. **Install dependencies:**
+   ```bash
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the main script:
-
-bash
-Copy
-Edit
-python main.py
-📷 Sample Output
-Real-time object detection + depth estimation with audio feedback.
+   pip install -r requirements.txt
+3. **Run the main script:**
+   ```bash
+   python main.py
+   
+## 📷 Sample Output
+Real-time object detection + depth estimation.
 (Insert a screenshot or GIF here)
 
-🔒 Facial Recognition Module
+## 🔒 Facial Recognition Module
 To enable user identification and personalization, refer to our Facial Recognition Repository. This module provides:
 
-Face detection using Haar cascades
+   Face detection using Haar cascades
 
-Real-time facial recognition with FaceNet
+   Real-time facial recognition with FaceNet
 
-User authentication & context-aware assistance
+   User authentication & context-aware assistance
 
-🔮 Future Work
+## 🔮 Future Work
 Multi-language voice output
 
 Path guidance using AR overlays
@@ -93,14 +85,11 @@ GPS + Indoor beacon hybrid support
 
 Enhanced low-light performance
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions! Feel free to open issues, suggest features, or raise pull requests.
 
-📜 License
-MIT License.
-© 2025 Abhishek Anand & Team, Amrita Vishwa Vidyapeetham.
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Ultralytics YOLOv8
 
 Intel ISL MiDaS for depth estimation
@@ -108,6 +97,10 @@ Intel ISL MiDaS for depth estimation
 OpenAI & Ollama for LLM integration
 
 OpenCV, PyTorch, Streamlit
+
+## 📜 License
+MIT License.
+© 2025 Abhishek Anand & Team, Amrita Vishwa Vidyapeetham.
 
 
 
