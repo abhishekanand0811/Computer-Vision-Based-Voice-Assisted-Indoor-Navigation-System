@@ -47,6 +47,7 @@ indoor-navigation/
 ├── requirements.txt
 └── README.md
 
+---
 
 ## ⚙️ Installation & Setup
 
@@ -62,10 +63,14 @@ indoor-navigation/
 3. **Run the main script:**
    ```bash
    python main.py
+
+---
    
 ## 📷 Sample Output
 Real-time object detection + depth estimation.
 (Insert a screenshot or GIF here)
+
+---
 
 ## 🔒 Facial Recognition Module
 To enable user identification and personalization, refer to our Facial Recognition Repository. This module provides:
@@ -76,6 +81,8 @@ To enable user identification and personalization, refer to our Facial Recogniti
 
   - User authentication & context-aware assistance
 
+---
+
 ## 🔮 Future Work
 - Multi-language voice output
 
@@ -85,9 +92,12 @@ To enable user identification and personalization, refer to our Facial Recogniti
 
 - Enhanced low-light performance
 
+---
+
 ## 🤝 Contributing
 We welcome contributions! Feel free to open issues, suggest features, or raise pull requests.
 
+---
 
 ## 🙌 Acknowledgments
 - Ultralytics YOLOv8
@@ -97,6 +107,8 @@ We welcome contributions! Feel free to open issues, suggest features, or raise p
 - OpenAI & Ollama for LLM integration
 
 - OpenCV, PyTorch, Streamlit
+
+---
 
 ## 📜 License
 MIT License.
