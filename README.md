@@ -11,7 +11,7 @@ This repository contains the core components of the project:
 - 🎦 Live Camera Feed & Real-Time Processing
 
 👉 **Facial Recognition** has been modularized and moved to a separate repository. Access it here:  
-[🔗 Facial Recognition Module Repository]([https://github.com/yourusername/facial-recognition-module](https://github.com/abhishekanand0811/Facial-Recognition-Module-for-Indoor-Navigation-System))
+[🔗 Facial Recognition Module Repository]((https://github.com/yourusername/facial-recognition-module](https://github.com/abhishekanand0811/Facial-Recognition-Module-for-Indoor-Navigation-System))
 
 ---
 
@@ -70,33 +70,33 @@ Real-time object detection + depth estimation.
 ## 🔒 Facial Recognition Module
 To enable user identification and personalization, refer to our Facial Recognition Repository. This module provides:
 
-   Face detection using Haar cascades
+  - Face detection using Haar cascades
 
-   Real-time facial recognition with FaceNet
+  - Real-time facial recognition with FaceNet
 
-   User authentication & context-aware assistance
+  - User authentication & context-aware assistance
 
 ## 🔮 Future Work
-Multi-language voice output
+- Multi-language voice output
 
-Path guidance using AR overlays
+- Path guidance using AR overlays
 
-GPS + Indoor beacon hybrid support
+- GPS + Indoor beacon hybrid support
 
-Enhanced low-light performance
+- Enhanced low-light performance
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to open issues, suggest features, or raise pull requests.
 
 
 ## 🙌 Acknowledgments
-Ultralytics YOLOv8
+- Ultralytics YOLOv8
 
-Intel ISL MiDaS for depth estimation
+- Intel ISL MiDaS for depth estimation
 
-OpenAI & Ollama for LLM integration
+- OpenAI & Ollama for LLM integration
 
-OpenCV, PyTorch, Streamlit
+- OpenCV, PyTorch, Streamlit
 
 ## 📜 License
 MIT License.
