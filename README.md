@@ -11,7 +11,7 @@ This repository contains the core components of the project:
 - 🎦 Live Camera Feed & Real-Time Processing
 
 👉 **Facial Recognition** has been modularized and moved to a separate repository. Access it here:  
-[🔗 Facial Recognition Module Repository]((https://github.com/yourusername/facial-recognition-module](https://github.com/abhishekanand0811/Facial-Recognition-Module-for-Indoor-Navigation-System))
+[🔗 Facial Recognition Module Repository](https://github.com/yourusername/facial-recognition-module](https://github.com/abhishekanand0811/Facial-Recognition-Module-for-Indoor-Navigation-System)
 
 ---
 
