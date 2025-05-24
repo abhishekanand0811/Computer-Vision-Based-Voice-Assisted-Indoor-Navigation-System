@@ -1,0 +1,2 @@
+# Computer-Vision-Based-Voice-Assisted-Indoor-Navigation-System
+An AI-powered assistive system designed to help **visually impaired individuals** navigate indoor environments using **Object Detection**, **Depth Estimation**, and **Voice Assistance**. The system combines computer vision and large language models (LLMs) to identify obstacles, estimate distances, and provide real-time voice feedback.
